@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <id>com.ssrs.Puma.Allen SollyPlugin</id>
+    <class>com.ssrs.Puma.Allen SollyPlugin</class>
+    <name>Clothing</name>
+    <author>ssrs</author>
+    <provider>ssrs</provider>
+    <version>1.0</version>
+    <description>Clothing</description>
+
+</plugin>
